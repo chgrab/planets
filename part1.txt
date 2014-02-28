@@ -2,3 +2,6 @@ this is the first part1.txt file.
 for testing only 
 
 add another text line to it, for testing commit again .
+
+and now third comment added
+
