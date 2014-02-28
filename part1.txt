@@ -1,7 +1,3 @@
-this is the first part1.txt file.
-for testing only 
-
-add another text line to it, for testing commit again .
-
-and now third comment added
-
+List of particles could go into this 
+repository.
+I am just testing....
